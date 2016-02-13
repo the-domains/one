@@ -1,0 +1,14 @@
+layout_spectrum: 0.443072
+color:
+  saturation: 0.2211955
+  lightness: 0.3966308
+  brandStrength: 0.9969763
+  brandColors:
+    - '#274A80'
+    - '#27211D'
+    - '#A36539'
+    - '#DEB57F'
+    - '#FFFFBD'
+  rhythmicContrast: 0.6379911
+typography_spectrum: 0.4226638
+name: One
