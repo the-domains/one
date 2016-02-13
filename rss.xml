@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[One]]></title>
         <description><![CDATA[One]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/one/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 19:08:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 19:10:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/one/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[You Rock!]]></title>
+            <description><![CDATA[<article><h1>You Rock!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24c696f7-d306-41a3-b217-b65a05f2f2ef.png"></article>]]></description>
+            <link>https://thegrid.ai/one/you-rock/index.html</link>
+            <guid isPermaLink="false">20f83226-0d19-4dc9-97be-259621762255</guid>
+            <pubDate>Sat, 13 Feb 2016 19:08:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Team, One Goal]]></title>
             <description><![CDATA[<article><h1>One Team, One Goal</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2c84f568547c9c6759c960c646360466ecf7be0.png"></article>]]></description>
-            <link>undefinedone-team-one-goal/index.html</link>
+            <link>https://thegrid.ai/one/one-team-one-goal/index.html</link>
             <guid isPermaLink="false">b52896f4-d253-4dcb-b4ad-18226bf006f9</guid>
             <pubDate>Sat, 13 Feb 2016 19:08:52 GMT</pubDate>
         </item>
