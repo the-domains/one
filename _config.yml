@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.3850698
 color:
   saturation: 0.2211955
   brandStrength: 0.9969763
@@ -21,6 +22,5 @@ color:
     - '#DEB57F'
     - '#FFFFBD'
   lightness: 0.3966308
-typography_spectrum: 0.4226638
 layout_spectrum: 0.9683136
 name: One
